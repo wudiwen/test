@@ -71,6 +71,8 @@ print(b)
 
 '''
 
+
+'''
 def isNull(l):
     flag = 1
     for x in l:
@@ -81,3 +83,9 @@ def isNull(l):
 
 a = [None,None,None,None,1]
 print(isNull(a))
+
+'''
+
+
+
+
